@@ -35,7 +35,7 @@
 💻 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-dylakim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylakim/)
-[![Twitter](https://img.shields.io/badge/-dyla__kim-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dyla_kim)
+[![Twitter](https://img.shields.io/badge/-dyla__kim-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dyla_kim/likes)
 [![Instagram](https://img.shields.io/badge/-kim.dyla-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kim.dyla/)
 
 
