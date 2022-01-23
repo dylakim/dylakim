@@ -12,12 +12,15 @@
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vuex](https://img.shields.io/badge/-Vuex-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5a29e4?style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+
 
 🧰 Tech I have used
 
