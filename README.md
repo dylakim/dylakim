@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:office: My current Role: Senior Interface Developer at Merkle Inc.
+:office: My current Role: Senior Interface Developer, Platform Tech Lead at Merkle Inc.
 
 
 😄 My pronouns: She/Her
