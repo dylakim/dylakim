@@ -32,7 +32,13 @@
 
 🌱 I’m currently learning
 
+![Mocha](https://img.shields.io/badge/-mocha-C29D7F?style=for-the-badge&logo=mocha&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+😍 I want to learn next
+
+![React](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 
 💻 Connect with me
