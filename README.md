@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:office: My current Role: Senior Interface Developer, Platform Tech Lead at Merkle Inc.
+:office: My current Role: Senior Promotions Front End Developer at Merkle Inc.
 
 
 😄 My pronouns: She/Her
@@ -32,8 +32,10 @@
 
 🌱 I’m currently learning
 
-![Mocha](https://img.shields.io/badge/-mocha-C29D7F?style=for-the-badge&logo=mocha&logoColor=white)
+![React](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-C29D7F?style=for-the-badge&logo=mocha&logoColor=white)
+
 
 
 😍 I want to learn next
