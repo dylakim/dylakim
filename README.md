@@ -15,6 +15,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![CSS Modules](https://img.shields.io/badge/-CSS_Modules-1572B6?style=for-the-badge&logo=cssModules&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -35,13 +36,14 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 
-🌱 I’m currently learning
-
-![React](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-
 💻 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-dylakim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylakim/)
 [![Instagram](https://img.shields.io/badge/-kim.dyla-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kim.dyla/)
+
+
+<!--🌱 I’m currently learning
+
+![React](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+-->
