@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:office: My current Role: Sitecore Front End Developer at Merkle
+:office: My current Role: React Sitecore Front End Developer at Merkle
 
 
 😄 My pronouns: She/Her
