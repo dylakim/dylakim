@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:office: My current Role: React Sitecore Front End Developer at Merkle
+:office: My current Role: React Front End Developer at Merkle
 
 
 😄 My pronouns: She/Her
@@ -9,13 +9,17 @@
 :heart: Tech I use daily
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Sitecore](https://img.shields.io/badge/-Sitecore-EB1F1F?style=for-the-badge&logo=sitecore&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![CSS Modules](https://img.shields.io/badge/-CSS_Modules-1572B6?style=for-the-badge&logo=cssModules&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Contentful](https://img.shields.io/badge/-Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
+![Sitecore](https://img.shields.io/badge/-Sitecore-EB1F1F?style=for-the-badge&logo=sitecore&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -27,8 +31,9 @@
 🧰 Tech I have used
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![ChakraUI](https://img.shields.io/badge/-ChakraUI-1BB2A9?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -38,8 +43,8 @@
 
 💻 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-dylakim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylakim/)
-[![Instagram](https://img.shields.io/badge/-kim.dyla-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kim.dyla/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylakim/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kim.dyla/)
 
 
 <!--🌱 I’m currently learning
